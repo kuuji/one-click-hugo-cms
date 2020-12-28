@@ -1,7 +1,7 @@
 ---
 title: SKOA
 subtitle: Some Kind Of Artist
-image: img/mclaren.jpg
+image: img/img_20200608_003656_303.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
