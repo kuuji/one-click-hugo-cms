@@ -1,6 +1,6 @@
 ---
-title: SKOA
-subtitle: Some Kind Of Artist
+title: ""
+subtitle: ""
 image: img/background-skoa.png
 blurb:
   heading: Who are we?
