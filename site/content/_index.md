@@ -3,11 +3,8 @@ title: SKOA
 subtitle: Some Kind Of Artist
 image: img/mvimg_20191007_190250.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who are we?
+  text: Some kind of artist yo
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
