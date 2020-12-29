@@ -1,7 +1,7 @@
 ---
 title: SKOA
 subtitle: Some Kind Of Artist
-image: img/img_20200608_003656_303.jpg
+image: img/mvimg_20191007_190250.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
@@ -14,4 +14,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
+values:
+  heading: t
+  text: t
 ---
