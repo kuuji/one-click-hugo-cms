@@ -4,7 +4,8 @@ subtitle: Some Kind Of Artist
 image: img/mvimg_20191007_190250.jpg
 blurb:
   heading: Who are we?
-  text: Some kind of artist yo
+  text: Some Kind of Artist is a Toronto based musical duo. Our music is free for
+    non-commercial use with appropriate credit.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
