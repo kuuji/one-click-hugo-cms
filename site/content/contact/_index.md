@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/background-skoa-1.png
+logo: img/logo.svg
 contact_entries:
   - heading: Some Kind of Artist
     text: skoasound@gmail.com
