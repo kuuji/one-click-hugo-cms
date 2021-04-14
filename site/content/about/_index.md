@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 image: img/image0.jpeg
 about:
   - heading: Who are we?
