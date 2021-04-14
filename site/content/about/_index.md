@@ -12,9 +12,4 @@ about:
 
       We love creating original soundscapes for films, animations, podcasts and other medias to bring the right atmosphere for your contents. Let us help you tell your stories!
     imageUrl: img/image0.jpeg
-  - heading: Original Sound Design
-    text: We love creating original soundscapes for films, animations, podcasts and
-      other medias to bring the right atmosphere for your contents. Let us help
-      you tell your stories!
-    imageUrl: img/image0.jpeg
 ---
