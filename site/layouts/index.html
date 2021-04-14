@@ -3,5 +3,7 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" .Params.blurb}}
-{{ .Content }}
+<div class="cms mw6">
+  {{ .Content }}
+</div>
 {{ end }}
