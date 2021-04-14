@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/logo3.png
+logo: img/skoa-logo3.png
 contact_entries:
   - heading: Email Us
     text: skoasound@gmail.com
