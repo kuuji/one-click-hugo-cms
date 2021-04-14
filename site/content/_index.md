@@ -1,10 +1,9 @@
 ---
 title: ""
 subtitle: ""
-image: img/image1.jpeg
+image: img/skoa-homepage.jpg
 blurb:
   heading: Some Kind of Artist
-  text: Welcome patron! SKOA is a sound designer, composer, producer based in
-    Toronto.
+  text: A sound production studio based in Toronto.
 ---
 {{< soundcloud 1242357937 >}}
