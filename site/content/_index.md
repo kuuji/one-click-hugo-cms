@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: ""
-image: img/skoa-homepage.jpg
+image: img/skoa.jpg
 blurb:
   heading: SKOA
   text: "Some Kind of Artist is a sound production studio based in Toronto. "
