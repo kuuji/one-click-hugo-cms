@@ -2,9 +2,9 @@
 title: About
 image: img/image0.jpeg
 about:
-  - heading: Who are we?
+  - heading: "  "
     text: >-
-      Our names are Mathew Jacob and Sae Byeon, and we are the makers of SKOA, a
+      Our names are Mathew Jacob and Sae Byeon, and we are the makers at SKOA, a
       Toronto-based music production studio. We have been consistently
       developing our unique portfolio of music, pushing for all genres,
       emotions, textures.  
