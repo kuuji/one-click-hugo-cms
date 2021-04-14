@@ -10,4 +10,4 @@ questions.
 
 <h3 class="f4 b lh-title mb2">How to contact…?</h3>
 
-Shoot us a message using the form below for any inquiries. Don’t be shy, let's connect!
+Shoot us a message for any inquiries. Don’t be shy, let's connect!
