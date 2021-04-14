@@ -9,7 +9,6 @@ about:
       developing our unique portfolio of music, pushing for all genres,
       emotions, textures. 
 
-      <P>
 
       We love creating original soundscapes for films, animations, podcasts and other medias to bring the right atmosphere for your contents. Let us know what you have in mind - we will help you tell your stories. 
     imageUrl: img/image0.jpeg
