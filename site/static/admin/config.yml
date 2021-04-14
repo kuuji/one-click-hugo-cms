@@ -59,7 +59,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/thankyou/_index.md"
+      - file: "site/content/thank-you/_index.md"
         label: "Thank You"
         name: "thank-you"
         fields:
