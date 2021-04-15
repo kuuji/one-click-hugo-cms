@@ -1,1 +1,1 @@
-![Thanks! ]( "We will get in touch with you soon.")
+![Thanks! We will get in touch with you soon.](img/skoa-logo3.png)
