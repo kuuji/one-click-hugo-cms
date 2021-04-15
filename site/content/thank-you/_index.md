@@ -1,1 +1,2 @@
-# Thank you! We will shortly respond to your inquiry. 
+
+![alt text](blog-index.jpg)
