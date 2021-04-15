@@ -1,2 +1,1 @@
-
-![alt text](blog-index.jpg)
+![ ](blog-index.jpg "Thanks! We will get in touch with you soon.")
