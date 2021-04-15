@@ -1,1 +1,1 @@
-# Thank you!
+# Thank you! We will shortly respond to your inquiry. 
