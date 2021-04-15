@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/image0.jpeg
+image: img/blog-index.jpg
 about:
   - heading: About SKOA
     text: >-
@@ -11,5 +11,5 @@ about:
 
 
       We love creating original soundscapes for films, animations, video games, podcasts and other medias to bring the right atmosphere for your contents. Let us know what you have in mind - we will help you tell your stories. 
-    imageUrl: img/image0.jpeg
+    imageUrl: img/blog-index.jpg
 ---
