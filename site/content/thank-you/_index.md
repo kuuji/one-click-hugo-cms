@@ -1,1 +1,1 @@
-![Thanks! ](blog-index.jpg "We will get in touch with you soon.")
+![Thanks! ]( "We will get in touch with you soon.")
