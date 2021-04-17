@@ -11,5 +11,5 @@ about:
 
 
       We love creating original soundscapes for films, animations, video games, podcasts and other medias to bring the right atmosphere for your contents. Let us know what you have in mind - we will help you tell your stories. 
-    imageUrl: img/blog-index.jpg
+    imageUrl: img/sae-and-matt.jpg
 ---
