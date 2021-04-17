@@ -1,15 +1,13 @@
 ---
 title: Contact
-logo: img/logo.svg
+logo: img/skoa-logo3.png
 contact_entries:
-  - heading: Some Kind of Artist
+  - heading: Email Us
     text: skoasound@gmail.com
 ---
 We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+questions.  
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How to contact…?</h3> 
 
-You can also use the form below for any inquiries about our 
-availabilities or monthly subscriptions. Don’t be shy, let's connect!
+Shoot us a message for any inquiries. Don’t be shy, let's connect!

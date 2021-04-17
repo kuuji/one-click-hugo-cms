@@ -1,0 +1,1 @@
+![](img/skoa-logo3.png "Thanks! We will get in touch with you soon.")
