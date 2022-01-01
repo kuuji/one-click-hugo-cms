@@ -1,9 +1,9 @@
 ---
 title: ""
 subtitle: ""
-image: img/16.png
+image: img/img-3572-skoa-website-bw.jpg
 blurb:
-  heading: Who Are We?
+  heading: SKOA
   text: "Some Kind of Artist is a sound production studio based in Toronto. "
 ---
 {{< soundcloud 1242357937 >}}
