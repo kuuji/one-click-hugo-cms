@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/blog-index.jpg
+image: img/discosouth-gif.gif
 about:
   - heading: About SKOA
     text: >-
