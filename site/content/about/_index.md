@@ -3,13 +3,14 @@ title: About Us
 image: img/img_0214.jpg
 about:
   - heading: About SKOA
-    text: >-
-      Our names are Mathew Jacob and Sae Byeon, and we are the makers at SKOA, a
-      Toronto-based music production studio. We have been consistently
-      developing our unique portfolio of music, pushing for all genres,
-      emotions, textures.  
-
-
-      We love creating original soundscapes for films, animations, video games, podcasts and other medias to bring the right atmosphere for the contents. Let us know what you have in mind - we would love to help you tell your stories. 
+    text: SKOA is a Toronto-based sound studio run by the creative duo Sae Byeon and
+      Mathew Jacob. We create music spanning over a variety of genres including
+      Rock, Jazz, textural ambience and orchestral arrangements. With our
+      multi-cultural and multi-instrumental backgrounds, we are able to bring a
+      diverse set of ideas to the creative process. We are some kind of artists
+      who are always looking for various formats of art that when put together
+      with our music increases our expression. Above all, we are your kind of
+      artists and would love to join you in your journey to create original
+      sounding expressions!
     imageUrl: img/sae-and-matt.jpg
 ---
