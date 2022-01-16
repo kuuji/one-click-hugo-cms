@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/sklogoconverted.svg
+image: img/img_0214.jpg
 about:
   - heading: About SKOA
     text: >-
