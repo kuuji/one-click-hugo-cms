@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: ""
-image: img/discosouth-gif.gif
+image: img/studio-1.jpg
 blurb:
   heading: S / K / O / A
   text: "Some Kind of Artist is a Toronto-based sound production studio. "
