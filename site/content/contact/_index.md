@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/img-3572-skoa-website.jpg
+logo: img/discosouth-gif.gif
 contact_entries:
   - heading: Email
     text: skoasound@gmail.com
