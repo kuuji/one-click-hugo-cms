@@ -13,30 +13,13 @@
     box-shadow: inset 0 -4px 0 var(--primary-3);
   } */
 }
-.hover-1 {
-  /* Link hover states */
-  & a {
-    transition: var(--hover-transition);
-  }
-  & li:hover, & li:focus {
+
+li.hover-1:hover, & li.hover-1:focus {
     box-shadow: inset 0 -4px 0 var(--hover-1);
   }
-}
-.hover-2 {
-  /* Link hover states */
-  & a {
-    transition: var(--hover-transition);
-  }
-  & li:hover, & li:focus {
+li.hover-2:hover, & li.hover-2:focus {
     box-shadow: inset 0 -4px 0 var(--hover-2);
   }
-}
-.hover-3 {
-  /* Link hover states */
-  & a {
-    transition: var(--hover-transition);
-  }
-  & li:hover, & li:focus {
+li.hover-3:hover, & li.hover-3:focus {
     box-shadow: inset 0 -4px 0 var(--hover-3);
   }
-}
