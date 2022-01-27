@@ -19,7 +19,7 @@
   & a {
     transition: var(--hover-transition);
   }
-  & ul a:hover, & ul a:focus {
+  & li a:hover, & li a:focus {
     box-shadow: inset 0 -4px 0 var(--hover-1);
   }
 }
@@ -30,7 +30,7 @@
   & a {
     transition: var(--hover-transition);
   }
-  & ul a:hover, & ul a:focus {
+  & li a:hover, & li a:focus {
     box-shadow: inset 0 -4px 0 var(--hover-2);
   }
 }
@@ -41,7 +41,7 @@
   & a {
     transition: var(--hover-transition);
   }
-  & ul a:hover, & ul a:focus {
+  & li a:hover, & li a:focus {
     box-shadow: inset 0 -4px 0 var(--hover-3);
   }
 }
