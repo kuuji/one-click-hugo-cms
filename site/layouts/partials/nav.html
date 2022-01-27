@@ -4,7 +4,7 @@
 		<li><a href="/" class="pa3 no-underline db">Some Kind of Artist</a></li>
 	</ul> -->
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none"> 
+	<a href="/" class="pa2 db mr4 h-100 w3 flex-none"> 
 		<img src="/img/SKLOGOConverted.svg" alt="SKOA logo" class="br0 db mb0 w-100"/>
 	</a>
 
@@ -12,28 +12,28 @@
 	<ul class="flex b grey-3">
     
 		{{ if eq .URL  "/" }}
-    <li class="hover-1 active"><a href="/" class="pa3 no-underline db">Home</a></li>
+    <li class="hover-1 active"><a href="/" class="pa2 no-underline db">Home</a></li>
     {{ else }}
-		<li class="hover-1"><a href="/" class="pa3 no-underline db">Home</a></li>
+		<li class="hover-1"><a href="/" class="pa2 no-underline db">Home</a></li>
 		{{ end }}
 
     {{ if eq .URL "/post/" }}
-    <li class="hover-2 active"><a href="/post" class="pa3 no-underline db">Posts</a></li>
+    <li class="hover-2 active"><a href="/post" class="pa2 no-underline db">Posts</a></li>
     {{ else }}
-    <li class="hover-2"><a href="/post" class="pa3 no-underline db">Posts</a></li>
+    <li class="hover-2"><a href="/post" class="pa2 no-underline db">Posts</a></li>
     {{ end }}
 
     {{ if eq .URL "/about/" }}
-    <li class="hover-3 active"><a href="/about" class="pa3 no-underline db">About</a></li>
+    <li class="hover-3 active"><a href="/about" class="pa2 no-underline db">About</a></li>
     {{ else }}
-    <li class="hover-3"><a href="/about" class="pa3 no-underline db">About</a></li>
+    <li class="hover-3"><a href="/about" class="pa2 no-underline db">About</a></li>
     {{ end }}
 		
 
     {{ if eq .URL "/contact/" }}
-    <li class="hover-4 active"><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+    <li class="hover-4 active"><a href="/contact" class="pa2 no-underline db">Contact</a></li>
     {{ else }}
-    <li class="hover-4"><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+    <li class="hover-4"><a href="/contact" class="pa2 no-underline db">Contact</a></li>
     {{ end }}
 		
 	</ul>
