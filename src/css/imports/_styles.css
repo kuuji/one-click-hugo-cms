@@ -14,12 +14,27 @@
   } */
 }
 
-li.hover-1:hover, & li.hover-1:focus {
+li.hover-1:hover{
     box-shadow: inset 0 -4px 0 var(--hover-1);
   }
-li.hover-2:hover, & li.hover-2:focus {
+li.hover-1:focus {
+    box-shadow: inset 0 -4px 0 var(--hover-1);
+  }
+li.hover-2:hover {
     box-shadow: inset 0 -4px 0 var(--hover-2);
   }
-li.hover-3:hover, & li.hover-3:focus {
+li.hover-2:focus {
+    box-shadow: inset 0 -4px 0 var(--hover-2);
+  }
+li.hover-3:hover {
     box-shadow: inset 0 -4px 0 var(--hover-3);
+  }
+li.hover-3:focus {
+    box-shadow: inset 0 -4px 0 var(--hover-3);
+  }
+li.hover-4:hover {
+    box-shadow: inset 0 -4px 0 var(--hover-4);
+  }
+li.hover-4:focus {
+    box-shadow: inset 0 -4px 0 var(--hover-4);
   }
